@@ -1,0 +1,4 @@
+package Chapter_1.Task_02_Finding_the_first_non_repeating_character;
+
+public class FindingTheFirstNonRepeatingCharacter {
+}
